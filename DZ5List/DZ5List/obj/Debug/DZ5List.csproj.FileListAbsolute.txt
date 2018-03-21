@@ -1,0 +1,6 @@
+c:\users\nikc\documents\visual studio 2015\Projects\DZ5List\DZ5List\bin\Debug\DZ5List.exe.config
+c:\users\nikc\documents\visual studio 2015\Projects\DZ5List\DZ5List\bin\Debug\DZ5List.exe
+c:\users\nikc\documents\visual studio 2015\Projects\DZ5List\DZ5List\bin\Debug\DZ5List.pdb
+c:\users\nikc\documents\visual studio 2015\Projects\DZ5List\DZ5List\obj\Debug\DZ5List.csprojResolveAssemblyReference.cache
+c:\users\nikc\documents\visual studio 2015\Projects\DZ5List\DZ5List\obj\Debug\DZ5List.exe
+c:\users\nikc\documents\visual studio 2015\Projects\DZ5List\DZ5List\obj\Debug\DZ5List.pdb

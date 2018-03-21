@@ -38,8 +38,11 @@ namespace Dz5_point
                         case 1:{
                                 Clear();
                                 count++;
-                                if (count <= 26){
-                                    points.Add(new Point());
+                                //if (count <= 26){
+                                Point pm = Point.CreatePoint();
+                                if (pm != null)
+                                {
+                                    points.Add(pm);
                                     WriteLine("Введите координаты:");
                                     do
                                     {
@@ -50,7 +53,8 @@ namespace Dz5_point
                                     points[count - 1].X = buff;
                                     points[count - 1].Y = buff1;
                                 }
-                                else { WriteLine("Ошибка!Перевышен лимит объектов\n"); }
+                                //}
+                                //else { WriteLine("Ошибка!Перевышен лимит объектов\n"); }
                             }break;
                         case 2:{
                                 Clear();
@@ -70,4 +74,5 @@ namespace Dz5_point
             }
         }
     }
+
 }

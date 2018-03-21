@@ -4,3 +4,12 @@ c:\users\nikc\documents\visual studio 2015\Projects\Dz5_point\Dz5_point\bin\Debu
 c:\users\nikc\documents\visual studio 2015\Projects\Dz5_point\Dz5_point\obj\Debug\Dz5_point.csprojResolveAssemblyReference.cache
 c:\users\nikc\documents\visual studio 2015\Projects\Dz5_point\Dz5_point\obj\Debug\Dz5_point.exe
 c:\users\nikc\documents\visual studio 2015\Projects\Dz5_point\Dz5_point\obj\Debug\Dz5_point.pdb
+C:\Users\Nikc\Desktop\Dz5_point\Dz5_point\bin\Debug\Dz5_point.exe.config
+C:\Users\Nikc\Desktop\Dz5_point\Dz5_point\obj\Debug\Dz5_point.exe
+C:\Users\Nikc\Desktop\Dz5_point\Dz5_point\obj\Debug\Dz5_point.pdb
+C:\Users\Nikc\Desktop\Dz5_point\Dz5_point\bin\Debug\Dz5_point.exe
+C:\Users\Nikc\Desktop\Dz5_point\Dz5_point\bin\Debug\Dz5_point.pdb
+C:\Users\Nikc\Desktop\Dz5_point\Dz5_point\obj\Debug\Dz5_point.csprojResolveAssemblyReference.cache
+D:\Николай\Рабочая\GitHub\Dz5_point\Dz5_point\bin\Debug\Dz5_point.exe.config
+D:\Николай\Рабочая\GitHub\Dz5_point\Dz5_point\obj\Debug\Dz5_point.exe
+D:\Николай\Рабочая\GitHub\Dz5_point\Dz5_point\obj\Debug\Dz5_point.pdb
