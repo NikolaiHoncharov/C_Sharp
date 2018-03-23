@@ -1,0 +1,5 @@
+c:\users\nikc\documents\visual studio 2015\Projects\DZ6_Circle_delegate\DZ6_Circle_delegate\bin\Release\DZ6_Circle_delegate.exe.config
+c:\users\nikc\documents\visual studio 2015\Projects\DZ6_Circle_delegate\DZ6_Circle_delegate\bin\Release\DZ6_Circle_delegate.exe
+c:\users\nikc\documents\visual studio 2015\Projects\DZ6_Circle_delegate\DZ6_Circle_delegate\bin\Release\DZ6_Circle_delegate.pdb
+c:\users\nikc\documents\visual studio 2015\Projects\DZ6_Circle_delegate\DZ6_Circle_delegate\obj\Release\DZ6_Circle_delegate.exe
+c:\users\nikc\documents\visual studio 2015\Projects\DZ6_Circle_delegate\DZ6_Circle_delegate\obj\Release\DZ6_Circle_delegate.pdb
