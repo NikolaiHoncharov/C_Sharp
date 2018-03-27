@@ -1,0 +1,6 @@
+c:\users\nikc\documents\visual studio 2015\Projects\Game_Race1\Game_Race1\bin\Debug\Game_Race1.exe.config
+c:\users\nikc\documents\visual studio 2015\Projects\Game_Race1\Game_Race1\bin\Debug\Game_Race1.exe
+c:\users\nikc\documents\visual studio 2015\Projects\Game_Race1\Game_Race1\bin\Debug\Game_Race1.pdb
+c:\users\nikc\documents\visual studio 2015\Projects\Game_Race1\Game_Race1\obj\Debug\Game_Race1.csprojResolveAssemblyReference.cache
+c:\users\nikc\documents\visual studio 2015\Projects\Game_Race1\Game_Race1\obj\Debug\Game_Race1.exe
+c:\users\nikc\documents\visual studio 2015\Projects\Game_Race1\Game_Race1\obj\Debug\Game_Race1.pdb
